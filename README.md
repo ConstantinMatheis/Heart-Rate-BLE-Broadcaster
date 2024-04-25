@@ -1,1 +1,1 @@
-# Heart Rate BLE Broadcaster
+[Privacy](privacy)
